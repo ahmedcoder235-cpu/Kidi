@@ -1,0 +1,5 @@
+/kidi-source
+├── index.json         ← contains your unified source code
+├── LICENSE            ← MIT license file (I can generate this for you)
+├── kididudu.ipa       ← your app binary
+└── icons/kididudu.png ← your app icon
